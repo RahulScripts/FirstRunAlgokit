@@ -11,7 +11,7 @@ For developers, Algorand offers comprehensive resources such as the Developer Po
 By combining scalability, security, and decentralization, Algorand aims to democratize finance and empower innovators to build a new digital economy.
 
 ### [Get to know more about Algorand](https://www.canablockchaindothat.com/)
-####Sources
+#### Sources
 - [Investopedia](https://www.investopedia.com/algorand-algo-definition-5217725) 
 - [Wikipedia](https://en.wikipedia.org/wiki/Algorand)
 - [Algorand](https://algorand.co)
